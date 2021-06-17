@@ -6,7 +6,8 @@ logs
 .idea
 .vscode/ 
 **.sw*
-**.iml
+/**.iml
+*.iml
 
 target/
 .repository/
@@ -18,4 +19,4 @@ target/
 /Instruction.png
 /out.log
 /out.log.*
-**Quest.info
+/**Quest.info
