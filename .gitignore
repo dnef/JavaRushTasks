@@ -6,6 +6,7 @@ logs
 .idea
 .vscode/ 
 *.sw*
+*.iml
 
 target/
 .repository/
@@ -13,6 +14,8 @@ target/
 *.jar
 /out/
 /JavaRushPlugin.properties
+/JavaRushTasks.iml
 /Instruction.png
 /out.log
 /out.log.*
+*/Quest.info
