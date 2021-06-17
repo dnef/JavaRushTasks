@@ -1,0 +1,18 @@
+# Игнорирование логов 
+logs 
+*.log 
+# Игнорирование файлов специфичных для IDE 
+.idea/
+.idea
+.vscode/ 
+*.sw*
+
+target/
+.repository/
+*.properties
+*.jar
+/out/
+/JavaRushPlugin.properties
+/Instruction.png
+/out.log
+/out.log.*
