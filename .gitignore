@@ -14,8 +14,8 @@ target/
 *.jar
 /out/
 /JavaRushPlugin.properties
-/JavaRushTasks.iml
+JavaRushTasks.iml
 /Instruction.png
 /out.log
 /out.log.*
-*Quest.info
+Quest.info
